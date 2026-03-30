@@ -11,7 +11,7 @@ community.
 
 ## Why Perpetuo
 
-Emerging technologies — from AI systems to advanced materials — are 
+Emerging technologies, from AI systems to advanced materials, are 
 reshaping society faster than governance frameworks can adapt. Existing 
 civic technology platforms excel at discussion structuring and opinion 
 aggregation, but none provide citizens with structured methods to assess 
@@ -20,7 +20,7 @@ maximum societal benefit.
 
 Perpetuo addresses this gap by integrating two validated frameworks:
 the European Commission's Foresight Menu and Donella Meadows' 
-12 leverage points — operationalised together for the first time in an 
+12 leverage points, operationalised together for the first time in an 
 open-source, AI-facilitated citizen engagement context.
 
 ---
